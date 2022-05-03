@@ -2,31 +2,31 @@
 
 **Escolaridade:**
 
-Ensino fundamental completo. 
+`Ensino fundamental completo.` 
 
-Ensino médio Completo. 
+`Ensino médio Completo.` 
 
-carteira nacional de habilitação categoria    “AB”
+`carteira nacional de habilitação categoria    “AB”`
 
 **Cursos:**
 
-- Informática básica: Word, Excel, Power Point, Corel Draw, internet, digitação, , montagem e manutenção de micro computadores.
-- Curso de Injeção Eletrônica Avançada: Sistema   Flex e Acelerador Eletrônico, Eficiência Catalítica, Treinamento de Diagnostico Eletro/eletrônico Bosch, Curso de Cambio dualógic e Sistema locker Fiat
-- Elétrica Básica, Elétrica Automotiva - SENAI.
-- SENAC – Recepção e Segurança em portarias *Programação Orientada a Objetos – Digital Innovation One
-- Tratamento de Exceções em java - Digital Innovation One
-- Criando um Banco Digital com java e Orientação a Objetos - Digital Innovation One
-- Debugging java - Digital Innovation One
-- Programação Orientada a Objetos - Digital Innovation One
-- Estruturas de Repetição e Arrays em java - Digital Innovation One
-- Lógica Condicional e Controle de Fluxos em java - Digital Innovation One
-- Entendendo Métodos java - Digital Innovation One
-- Variáveis, tipos de Dados e Operadores Matemáticos em java - Digital Innovation One
-- Dominando IDEs Java - Digital Innovation One
-- Introdução ao ecossistema e documentação java - Digital Innovation One
-- Introdução ao Git e GitHub - Digital Innovation One
-- Estruturas de Dados e algoritmos - Digital Innovation One
-- Lógica de programação essencial - Digital Innovation One
+- `Informática básica: Word, Excel, Power Point, Corel Draw, internet, digitação, , montagem e manutenção de micro computadores.`
+- `Curso de Injeção Eletrônica Avançada: Sistema   Flex e Acelerador Eletrônico, Eficiência Catalítica, Treinamento de Diagnostico Eletro/eletrônico Bosch, Curso de Cambio dualógic e Sistema locker Fiat`
+- `Elétrica Básica, Elétrica Automotiva - SENAI.`
+- `SENAC – Recepção e Segurança em portarias *Programação Orientada a Objetos – Digital Innovation One`
+- `Tratamento de Exceções em java - Digital Innovation One`
+- `Criando um Banco Digital com java e Orientação a Objetos - Digital Innovation One`
+- `Debugging java - Digital Innovation One`
+- `Programação Orientada a Objetos - Digital Innovation One`
+- `Estruturas de Repetição e Arrays em java - Digital Innovation One`
+- `Lógica Condicional e Controle de Fluxos em java - Digital Innovation One`
+- `Entendendo Métodos java - Digital Innovation One`
+- `Variáveis, tipos de Dados e Operadores Matemáticos em java - Digital Innovation One`
+- `Dominando IDEs Java - Digital Innovation One`
+- `Introdução ao ecossistema e documentação java - Digital Innovation One`
+- `Introdução ao Git e GitHub - Digital Innovation One`
+- `Estruturas de Dados e algoritmos - Digital Innovation One`
+- `Lógica de programação essencial - Digital Innovation One`
 
 
 
@@ -74,19 +74,19 @@ carteira nacional de habilitação categoria    “AB”
 
 
 
-`**Obs:**`
+**Obs:**
 
 ` Curso de Recepção e Segurança em portarias, treinamento em Segurança de portarias controlando acesso de pessoas e veículos contribuindo para a segurança do local, recepção de clientes, controle de correspondências, segurança, prevenção e combate a incêndios.`
 
 
 
-`Endereço: Avenida dos Expedicionários n 341`
+Endereço: Avenida dos Expedicionários n 341
 
-`Bairro:  Jardim Camburi` 
+Bairro:  Jardim Camburi 
 
-`Cidade: Vitória – ES` 
+Cidade: Vitória – ES 
 
-`Cel.: (27) 99946-8598 (Wathsapp / Vivo)` 
+Cel.: (27) 99946-8598 (Wathsapp / Vivo) 
 
 ​											
 
